@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.20.0"
   latestRelease: "v0.20.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:23:33Z
+  collectedAt: 2026-09-10T20:43:55Z
 timeline:
   created: 2025-10-01
   lastCommit: 2026-07-02
@@ -87,7 +87,7 @@ total:
   commit: 941
 ---
 path: /home/runner/.x-repo/github.com/ari1110/pass-cli
-collectedAt: 2026-09-10T05:23:35Z
+collectedAt: 2026-09-10T20:43:58Z
 loc:
   Go:
     code: 43038

@@ -1,0 +1,25 @@
+- repo: aur
+  srcname: pass-cli
+  binname: pass-cli
+  visiblename: pass-cli
+  version: 0.17.21
+  origversion: 0.17.21-1
+  status: outdated
+  summary: A secure, cross-platform, always-free, and open-source alternative to 1password, bitwarden, etc., Password and API key manager
+  maintainers:
+    - dusanpolak@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: pass-cli-bin
+  binname: pass-cli-bin
+  visiblename: pass-cli-bin
+  version: 0.20.0
+  origversion: 0.20.0-1
+  status: unique
+  summary: CLI password and API key manager for folks who live in the command line
+  maintainers:
+    - dominiquini@aur
+    - arimxyer@aur
+  licenses:
+    - Apache-2.0

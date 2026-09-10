@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9200862,
       "digest": "sha256:8ddf048a64265ce5a751973f2e51ed3b669a38189bc4e12d77a03a9adad6bfcf",
-      "download_count": 73,
+      "download_count": 74,
       "created_at": "2026-07-02T04:26:17Z",
       "updated_at": "2026-07-02T04:26:17Z",
       "browser_download_url": "https://github.com/reyamira/pass-cli/releases/download/v0.20.0/pass-cli_0.20.0_darwin_all.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4865257,
       "digest": "sha256:3287313ef012aea52e836313cbeab0f6983c1ca00c46cd874818228a24adf962",
-      "download_count": 152,
+      "download_count": 154,
       "created_at": "2026-07-02T04:26:16Z",
       "updated_at": "2026-07-02T04:26:16Z",
       "browser_download_url": "https://github.com/reyamira/pass-cli/releases/download/v0.20.0/pass-cli_0.20.0_linux_x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4866146,
       "digest": "sha256:194c8404845016206577956a99cbe54de7bd4e5525cd682098f5dcd7967a0c82",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-07-02T04:26:16Z",
       "updated_at": "2026-07-02T04:26:16Z",
       "browser_download_url": "https://github.com/reyamira/pass-cli/releases/download/v0.20.0/pass-cli_0.20.0_windows_x86_64.tar.gz"
