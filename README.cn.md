@@ -4,13 +4,25 @@
 
 A secure, cross-platform, always-free, and open-source alternative to 1password, bitwarden, etc., Password and API key manager for folks who live in the command line. (CLI + TUI)
 
-![pass-cli](https://repo.x-cmd.io/pass-cli.svg)
+![pass-cli](https://repo.x-cmd.io/pass-cli.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install pass-cli
 ```
+
+## 代码规模
+
+合计: **43,530** 行代码（覆盖前 5 种语言、共 **233** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 43,038 | 8,641 | 9,301 | 212 |
+| Yaml | 164 | 20 | 19 | 13 |
+| Json | 67 | 0 | 0 | 1 |
+| Svg | 60 | 27 | 21 | 6 |
+| Ruby | 57 | 5 | 13 | 1 |
 
 ## 源代码
 
@@ -23,7 +35,6 @@ x install pass-cli
 - **最新版本**: `v0.20.0` (2026-07-02)
 - **最近提交**: 2026-07-02
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-07-02T04:26:18Z
 
 ## 流行度
 
@@ -38,20 +49,22 @@ x install pass-cli
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 37 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 37 | 0 | 0 | 0 | 0 | 0 |
 
-## 代码规模
+## Release 资产
 
-合计: **43,530** 行代码（覆盖前 5 种语言、共 **233** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 43,038 | 8,641 | 9,301 | 212 |
-| Yaml | 164 | 20 | 19 | 13 |
-| Json | 67 | 0 | 0 | 1 |
-| Svg | 60 | 27 | 21 | 6 |
-| Ruby | 57 | 5 | 13 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/ari1110/pass-cli/releases/download/v0.20.0/checksums.txt) | 510 B | `other` |
+| [pass-cli_0.20.0_darwin_all.tar.gz](https://github.com/ari1110/pass-cli/releases/download/v0.20.0/pass-cli_0.20.0_darwin_all.tar.gz) | 8.8 MiB | `native/darwin/x64` |
+| [pass-cli_0.20.0_linux_arm64.tar.gz](https://github.com/ari1110/pass-cli/releases/download/v0.20.0/pass-cli_0.20.0_linux_arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
+| [pass-cli_0.20.0_linux_x86_64.tar.gz](https://github.com/ari1110/pass-cli/releases/download/v0.20.0/pass-cli_0.20.0_linux_x86_64.tar.gz) | 4.6 MiB | `native/linux/x64` |
+| [pass-cli_0.20.0_windows_arm64.tar.gz](https://github.com/ari1110/pass-cli/releases/download/v0.20.0/pass-cli_0.20.0_windows_arm64.tar.gz) | 4.2 MiB | `native/win/arm64` |
+| [pass-cli_0.20.0_windows_x86_64.tar.gz](https://github.com/ari1110/pass-cli/releases/download/v0.20.0/pass-cli_0.20.0_windows_x86_64.tar.gz) | 4.6 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -62,4 +75,4 @@ pass-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:23:39Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:44:06Z._
