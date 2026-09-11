@@ -38,7 +38,7 @@ Total: **43,530** lines of code across **233** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 105 · **Forks**: 4 · **Open issues**: 20 · **Contributors**: 5
+- **Stars**: 106 · **Forks**: 4 · **Open issues**: 20 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -75,4 +75,4 @@ Install metadata for pass-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:17:20Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:39:06Z._
